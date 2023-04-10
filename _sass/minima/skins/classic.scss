@@ -35,7 +35,7 @@ $sol-base02:   #073642;  // 20 -12 -12
 $sol-base01:   #3e999f;  // 45 -07 -07
 $sol-base00:   #657b83;  // 50 -07 -07
 $sol-base0:    #839496;  // 60 -06 -03
-$sol-base1:    #75715e;  // 65 -05 -02
+$sol-base1:    #93a1a1;  // 65 -05 -02
 $sol-base2:    #eee8d5;  // 92 -00  10
 $sol-base3:    #fdf6e3;  // 97  00  10
 $sol-yellow:   #b58900;  // 60  10  65
@@ -44,7 +44,7 @@ $sol-red:      #dc322f;  // 50  65  45
 $sol-magenta:  #d33682;  // 50  65 -05
 $sol-violet:   #6c71c4;  // 50  15 -45
 $sol-blue:     #268bd2;  // 55 -10 -45
-$sol-cyan:     #2aa198;  // 60 -35 -05
+$sol-num:      #eab700;  // 60 -35 -05
 $sol-green:    #859900;  // 60 -20  65
 
 $sol-mono3:    $sol-base3;
@@ -79,24 +79,24 @@ $sol-mono01:   $sol-base01;
   .kp    { color: $sol-mono01; font-weight: bold } // Keyword.Pseudo
   .kr    { color: $sol-mono01; font-weight: bold } // Keyword.Reserved
   .kt    { color: $sol-violet; font-weight: bold } // Keyword.Type
-  .m     { color: $sol-cyan } // Literal.Number
+  .m     { color: $sol-num } // Literal.Number
   .s     { color: $sol-magenta } // Literal.String
-  .na    { color: $sol-cyan } // Name.Attribute
+  .na    { color: $sol-num } // Name.Attribute
   .nb    { color: $sol-blue } // Name.Builtin
   .nc    { color: $sol-violet; font-weight: bold } // Name.Class
-  .no    { color: $sol-cyan } // Name.Constant
+  .no    { color: $sol-num } // Name.Constant
   .ni    { color: $sol-violet } // Name.Entity
   .ne    { color: $sol-violet; font-weight: bold } // Name.Exception
   .nf    { color: $sol-blue; font-weight: bold } // Name.Function
   .nn    { color: $sol-mono00 } // Name.Namespace
   .nt    { color: $sol-blue } // Name.Tag
-  .nv    { color: $sol-cyan } // Name.Variable
+  .nv    { color: $sol-num } // Name.Variable
   .ow    { color: $sol-mono01; font-weight: bold } // Operator.Word
   .w     { color: $sol-mono1 } // Text.Whitespace
-  .mf    { color: $sol-cyan } // Literal.Number.Float
-  .mh    { color: $sol-cyan } // Literal.Number.Hex
-  .mi    { color: $sol-cyan } // Literal.Number.Integer
-  .mo    { color: $sol-cyan } // Literal.Number.Oct
+  .mf    { color: $sol-num } // Literal.Number.Float
+  .mh    { color: $sol-num } // Literal.Number.Hex
+  .mi    { color: $sol-num } // Literal.Number.Integer
+  .mo    { color: $sol-num } // Literal.Number.Oct
   .sb    { color: $sol-magenta } // Literal.String.Backtick
   .sc    { color: $sol-magenta } // Literal.String.Char
   .sd    { color: $sol-magenta } // Literal.String.Doc
@@ -109,10 +109,10 @@ $sol-mono01:   $sol-base01;
   .s1    { color: $sol-magenta } // Literal.String.Single
   .ss    { color: $sol-magenta } // Literal.String.Symbol
   .bp    { color: $sol-mono1 } // Name.Builtin.Pseudo
-  .vc    { color: $sol-cyan } // Name.Variable.Class
-  .vg    { color: $sol-cyan } // Name.Variable.Global
-  .vi    { color: $sol-cyan } // Name.Variable.Instance
-  .il    { color: $sol-cyan } // Literal.Number.Integer.Long
+  .vc    { color: $sol-num } // Name.Variable.Class
+  .vg    { color: $sol-num } // Name.Variable.Global
+  .vi    { color: $sol-num } // Name.Variable.Instance
+  .il    { color: $sol-num } // Literal.Number.Integer.Long
 }
 // Syntax highlighting styles
 // --------------------------
