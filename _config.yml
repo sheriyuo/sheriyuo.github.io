@@ -60,6 +60,8 @@ kramdown:
 paginate: 10
 paginate_path: "/page:num/"
 
+future: true
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
