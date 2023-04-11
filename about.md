@@ -4,7 +4,7 @@ title:  About
 permalink: /about/
 ---
 
-# Hi 👋 sheriyuo here.
+### Hi 👋 sheriyuo here.
 
 - 📶Other nickname: disangan233 (dsg)
 - ✅OIer / ACMer, [▶️ Codeforces](https://codeforces.com/profile/disangan233)
