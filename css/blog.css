@@ -39,7 +39,7 @@
   width: 80%;
   display: block;
   border-radius: 5px;
-  margin-bottom: 20px;
+  margin-bottom: 20px;x
 }
 .sidebar-container .short-about p {
   margin-top: 0px;
@@ -156,12 +156,7 @@ p {
   margin: 30px 0;
 }
 h1,
-h2 {
-  font-family: Katex_main, "Noto Serif SC", serif;
-  line-height: 1.7;
-  line-height: 1.1;
-  font-weight: bold;
-}
+h2,
 h3,
 h4,
 h5,
@@ -170,6 +165,12 @@ h6 {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
+  font-family: Katex_main, "Noto Serif SC", serif;
+  line-height: 1.7;
+  line-height: 1.1;
+  font-weight: bold;
+}
+.anchorjs-link {
   font-family: -apple-system, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   line-height: 1.1;
