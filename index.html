@@ -15,7 +15,8 @@ description: Fanfare's blog
         </h3>
         {% endif %}
         <div class="post-content-preview">
-            {{ post.content | newline_to_br | split: "<br />" %}}
+            {% assign excerpt = post.content | newline_to_br | split: "<br />" %}
+            {{ excerpt[0] }}
         </div>
     </a>
     <p class="post-meta">
