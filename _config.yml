@@ -52,10 +52,10 @@ kramdown:
 # Gitalk settings
 # * Set it by yourself. -- Ghastlcon
 # gitalk:
-#   client_id: f18f7a4e8784e68c034c 
-#   client_secret: be451c0163ab1e244b584ea4ad8d66766415e64a 
-#   repo: fpdqwq.github.io 
-#   owner: fpdqwq 
+#   client_id: f18f7a4e8784e68c034c
+#   client_secret: be451c0163ab1e244b584ea4ad8d66766415e64a
+#   repo: fpdqwq.github.io
+#   owner: fpdqwq
 #   admin: ['fpdqwq']
 
 
@@ -87,5 +87,9 @@ friends: [
   {
     title: "amane-ame",
     href : "https://blog.amane-a.me"
+  },
+  {
+    title: "ce-amtic（傻逼冯友和）"
+    href : "https://ce-amtic.github.io"
   }
 ]
