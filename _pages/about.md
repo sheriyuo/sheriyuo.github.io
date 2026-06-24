@@ -13,7 +13,7 @@ redirect_from:
 
 {% include_relative includes/educations.md %}
 
-{% include_relative includes/internships.md %}
+{% include_relative includes/experiences.md %}
 
 {% include_relative includes/pub.md %}
 
