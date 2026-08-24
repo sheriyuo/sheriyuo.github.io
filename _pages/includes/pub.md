@@ -10,10 +10,3 @@ ICML 2026 <a href="https://github.com/sheriyuo/ETS"><img alt="GitHub Repo stars"
 - [Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment](https://arxiv.org/abs/2607.04728)  
 Yu Li\*, **Xiuyu Li\***, Mingyang Yi, Jiaxing Wang, Liangxu Zhang, Zhaolong Xing, Zhen Chen  
 Preprint
-
-<!-- - [Your "Pro" LLM Subscription May Actually Be "Free": Exposing Fingerprint Spoofing Risks in LLM Inference Services](https://arxiv.org/abs/2606.16100)  
-Jiahao Zhang\*, **Xiuyu Li\***, Suhang Wang  
-Preprint
-- [OFA-Diffusion Compression: Compressing Diffusion Model in One-Shot Manner](https://arxiv.org/abs/2604.12668)  
-Haoyang Jiang\*, Zekun Wang\*, Mingyang Yi, **Xiuyu Li**, Lanqing Hu, Junxian Cai, Qingbin Liu, Xi Chen, Ju Fan  
-Preprint <a href="https://github.com/atrijhy/OFA-Diffusion_Compression"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/atrijhy/OFA-Diffusion_Compression?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=1" style="border: 1px solid #ccc; border-radius: 4px;"></a>  -->
