@@ -9,4 +9,4 @@ ICML 2026 <a href="https://github.com/sheriyuo/ETS"><img alt="GitHub Repo stars"
 ## PrePrints
 - [Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment](https://arxiv.org/abs/2607.04728)  
 Yu Li\*, **Xiuyu Li\***, Mingyang Yi, Jiaxing Wang, Liangxu Zhang, Zhaolong Xing, Zhen Chen  
-Preprint
+Preprint <a href="https://github.com/liyu199809/SIS"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/liyu199809/SIS?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=1" style="border: 1px solid #ccc; border-radius: 4px;"></a>
